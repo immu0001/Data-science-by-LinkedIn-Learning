@@ -2,7 +2,7 @@
 
 Data science course class contents from linkedIn learning
 
-................................
+.................................
 
 # Installation
 
