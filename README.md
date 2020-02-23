@@ -10,4 +10,4 @@ Data science course class contents from linkedIn learning
 * Anaconda Package Manager.
 * Python Interpreter 3.x
 
-## Clone This Reposito
+## Clone This Repositor
